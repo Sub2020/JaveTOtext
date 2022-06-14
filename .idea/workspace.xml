@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d33998d9-6068-43a7-b2c8-544870197bbd" name="Changes" comment="test only">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d33998d9-6068-43a7-b2c8-544870197bbd" name="Changes" comment="test only another" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +32,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Anothertest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTRXT.Anothertest" />
+      <module name="TextFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaTRXT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Anothertest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +68,77 @@
       <option name="project" value="LOCAL" />
       <updated>1655187911779</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test only another">
+      <created>1655188099011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655188099011</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test only another">
+      <created>1655188129477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655188129477</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test only another">
+      <created>1655188161244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655188161244</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test only another">
+      <created>1655188171452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655188171452</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test only another">
+      <created>1655188208231</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655188208231</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test only another">
+      <created>1655188237707</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655188237707</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test only another">
+      <created>1655188246753</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655188246753</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test only another">
+      <created>1655188291652</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655188291652</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test only another">
+      <created>1655188369484</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655188369484</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test only another">
+      <created>1655188416759</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655188416759</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test only" />
-    <option name="LAST_COMMIT_MESSAGE" value="test only" />
+    <MESSAGE value="test only another" />
+    <option name="LAST_COMMIT_MESSAGE" value="test only another" />
   </component>
 </project>
